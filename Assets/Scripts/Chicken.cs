@@ -22,7 +22,7 @@ public class Chicken : MonoBehaviour
 
     public UnityEvent OnCarCollison;
 
-    private bool isMoveable = false;
+    public static bool isMoveable = false;
 
     // Update is called once per frame
     void Update()
