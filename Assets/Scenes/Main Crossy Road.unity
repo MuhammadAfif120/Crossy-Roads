@@ -8768,10 +8768,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69eb1a350dff2af40a56f46fe59e0354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreText: {fileID: 0}
-  finalScore: {fileID: 0}
-  scoreAmount: 0
-  pointIncreasedPerSecond: 0
+  timerText: {fileID: 1758432024}
+  finatlTimer: {fileID: 1847335558}
+  timerAmount: 0
+  timerIncreaseperSec: 0
 --- !u!114 &1758432024
 MonoBehaviour:
   m_ObjectHideFlags: 0
